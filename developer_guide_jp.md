@@ -179,8 +179,8 @@ R15,R16,R19,R20,R35
 Pangaea RI の回路図から該当部分をコピーして、footprintを更新し、配置します。外形を標準のThumbモジュールからコピーして拡張部分を加えます。あとはfreerouterを用いて配線するだけです。
 標準モジュールでは2つのSHコネクタが配線されていますが、一つだけにしても大丈夫です。
 
-![PCBeditor](images/2023-01-04_21_48_56.png)
-![Top_Bottom](images/2023-01-05_21_24_05.png)
+<img src="images/2023-01-04_21_48_56.png" width="70%" />
+<img src="images/2023-01-05_21_24_05.png" width="70%" />
 
 ### PCB発注
 
